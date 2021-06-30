@@ -4,7 +4,7 @@
 | Nomor Dokumen | : | 0001
 | Versi Dokumen | : | 1.0
 | Dipersiapkan Oleh | : | tamami
-| Tanggal | : | 5 Januari 2021
+| Tanggal | : | 6 Januari 2020
 |======
 
 *Sejarah Dokumen*
@@ -12,7 +12,7 @@
 [width="100%",options="header",cols="2,3,5,2,8"]
 |======
 | Versi | Tanggal | Perubahan | Oleh | Catatan
-| 1.0 | 5 Januari 2021 | Dokumen Awal SLA | tamami | 
+| 1.0 | 6 Januari 2020 | Dokumen Awal SLA | tamami | 
 |======
 
 <<<
