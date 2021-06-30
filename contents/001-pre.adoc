@@ -1,0 +1,18 @@
+[width="100%",cols="3,^1,10"]
+|======
+| Nama Dokumen | : | Service Level Agreement Layanan Teknis / Pendukung
+| Nomor Dokumen | : | 0002
+| Versi Dokumen | : | 1.0
+| Dipersiapkan Oleh | : | tamami
+| Tanggal | : | 5 Mei 2021
+|======
+
+*Sejarah Dokumen*
+
+[width="100%",options="header",cols="2,3,5,2,8"]
+|======
+| Versi | Tanggal | Perubahan | Oleh | Catatan
+| 1.0 | 5 Mei 2021 | Dokumen Awal SLA | tamami | 
+|======
+
+<<<
