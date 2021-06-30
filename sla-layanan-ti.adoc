@@ -1,6 +1,6 @@
 :doctype: article
 
-= Service Level Agreement (SLA) - Layanan Teknis / Pendukung Teknologi Informasi
+= Service Level Agreement (SLA) - Layanan Teknologi Informasi 
 tamami
 Badan Pendapatan Daerah Kabupaten Brebes
 :reproducible:

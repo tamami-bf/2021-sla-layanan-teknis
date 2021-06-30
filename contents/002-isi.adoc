@@ -1,10 +1,10 @@
 == Pendahuluan
 
-Dokumen ini adalah _Service Level Agreement_ (SLA) yang menjadi acuan bagian Teknologi Informasi dalam memberikan layanan kepada seluruh pengguna.
+Dokumen ini adalah _Service Level Agreement_ (SLA) yang menjadi acuan bagian Teknologi Informasi dalam memberikan layanan kepada seluruh pengguna data.
 
 == Tujuan
 
-Tujuan dari dibentuknya dokumen _service level agreement_ adalah untuk menjaga hubungan antara penyedia layanan teknologi informasi, dalam hal ini bagian yang menangani teknologi informasi di Badan Pendapatan Daerah Kabupaten Brebes dengan pengguna layanan teknologi informasi, baik pegawai internal unit kerja di Badan Pendapatan Daerah Kabupaten Brebes, pegawai eksternal yang membantu pengelolaan dan pemungutan Pajak Daerah Kabupaten Brebes.
+Tujuan dari dibentuknya dokumen _service level agreement_ adalah untuk menjaga hubungan antara penyedia layanan teknologi informasi, dalam hal ini bagian yang menangani teknologi informasi di Badan Pendapatan Daerah Kabupaten Brebes dengan pengguna layanan teknologi informasi, baik pegawai internal unit kerja di Badan Pendapatan Daerah Kabupaten Brebes, pegawai eksternal yang membantu pengelolaan dan pemungutan Pajak Daerah Kabupaten Brebes, maupun unit kerja lain.
 
 Dengan adanya _Service Level Agreement_ ini diharapkan secara tidak langsung meningkatkan kualitas komunikasi antara penyedia layanan teknologi informasi dengan pengguna layanan sehingga bisa saling memahami hak dan tanggung jawabnya masing-masing.
 
@@ -47,7 +47,6 @@ Batasan dan ruang lingkup dokumen ini berlaku untuk jenis layanan teknologi info
 . Pengguna dapat menjaga kerahasiaan (_confidentiality_) dan integritas (_integrity_) data yang disediakan, termasuk _username_ dan _password_ yang digunakan.
 . Pengguna dapat melaporkan gangguan melalui _helpdesk_ yang ditetapkan terkait kelemahan (_bug_) dan beberapa fitur yang belum terfasilitasi di aplikasi layanan pengguna
 . Pengguna dapat memberikan akses komputer kepada Bagian Teknologi Informasi untuk melakukan penanganan permasalahan layanan pengguna, termasuk untuk monitoring, evaluasi, dan pengendalian atau rekomendasi yang ditetapkan Bagian Teknologi Informasi.
-
 
 == Layanan Pelanggan dan Eskalasi Masalah
 
